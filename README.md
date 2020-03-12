@@ -1,16 +1,7 @@
 # bamisoro
 
-A flutter chat app
+A flutter chat app with firebase backend and firebase authentication
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![chat](https://user-images.githubusercontent.com/16244953/76553628-aab2bf80-6494-11ea-9585-e9aab5496de3.gif)
+<img width="188" alt="Capture chat (1)" src="https://user-images.githubusercontent.com/16244953/76553644-b605eb00-6494-11ea-93b4-e91bcfe90d6a.PNG">
+<img width="185" alt="Capture chat (2)" src="https://user-images.githubusercontent.com/16244953/76553647-b7371800-6494-11ea-9e2d-6a52d7dd26a4.PNG">
