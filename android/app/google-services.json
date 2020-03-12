@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044625971003",
+    "firebase_url": "https://bamisoro-31c9d.firebaseio.com",
+    "project_id": "bamisoro-31c9d",
+    "storage_bucket": "bamisoro-31c9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044625971003:android:236716c229b151c05d091e",
+        "android_client_info": {
+          "package_name": "com.codeengine.bamisoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044625971003-u93c86n30fu3rlpdm35v0v3emhpbv9ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_Zwt4b4dnWr9MF0iBopMb76DZ3h8hRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044625971003-u93c86n30fu3rlpdm35v0v3emhpbv9ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
